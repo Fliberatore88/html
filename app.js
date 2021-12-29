@@ -8,6 +8,7 @@ app.use (express.static(publicPath) );
 app.get ('/', (req,res) => {
     res.sendFile (path.join(__dirname, '/views/index.html'))
 })
+
 app.listen(3000, () => {
     console.log ('El Servidor levantó correctamente')
 })
