@@ -33,8 +33,6 @@ p.producto {
     margin: auto;
     width: 200px;
     height: 50px;
-    display: block;
-    flex-wrap: wrap;
     align-content: center;
     font-family: 'Lora', serif;
     font-family: 'Open Sans', sans-serif;
@@ -60,4 +58,8 @@ li.item3 {
     color: rebeccapurple;
     font-style: italic;
     font-size: smaller;
+}
+
+#rombos {
+    margin: auto;
 }
