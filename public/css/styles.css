@@ -19,17 +19,23 @@ h1 {
     font-family: 'Shizuru', cursive;
 }
 p.producto {
+    color: #000000;
     font-family: 'Lora', serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Shizuru', cursive;
-    font-size: 14px;
-    line-height: 22px;
-    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
     text-align: center;
 }
 
 #subtitulo {
     background-color: sandybrown;
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    display: block;
+    flex-wrap: wrap;
+    align-content: center;
     font-family: 'Lora', serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Shizuru', cursive;
