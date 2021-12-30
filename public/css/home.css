@@ -10,6 +10,7 @@ p.producto {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 14px;
     line-height: 22px;
+    font-weight: lighter;
     text-align: center;
 }
 
@@ -20,4 +21,20 @@ p.producto {
     text-align: center;
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li.item1 {
+    color: green;
+    font-style: italic;
+    font-size: medium;
+}
+li.item2 {
+    color: red;
+    font-style: normal;
+    font-size: small;
+}
+
+li.item3 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-size: smaller;
 }
