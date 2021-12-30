@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(255,0,100,0.5);
+    background-image: url('/images/palmeras.jpg');
+    background-repeat: repeat-x;
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shizuru', cursive;
+}
+
+
+h1 {
+    color: red;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shizuru', cursive;
+}
+p.producto {
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shizuru', cursive;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#subtitulo {
+    background-color: sandybrown;
+    font-family: 'Lora', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shizuru', cursive;
+    color: #f4f400;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
+li.item1 {
+    color: green;
+    font-style: italic;
+    font-size: medium;
+}
+li.item2 {
+    color: red;
+    font-style: normal;
+    font-size: small;
+}
+
+li.item3 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-size: smaller;
+}
