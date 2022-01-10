@@ -1,7 +1,11 @@
+* {
+    box-sizing: border-box;
+}
 body {
     background-color: rgba(255,0,100,0.5);
     background-image: url('/images/palmeras.jpg');
-    background-repeat: repeat-x;
+    background-position-x: center;
+    background-repeat: no-repeat;
     font-family: 'Lora', serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Shizuru', cursive;
